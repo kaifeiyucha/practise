@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
     scanf("%d", target);
 
     result = findResult(a);
-
+    printf("");
     return 0;
 
 }
